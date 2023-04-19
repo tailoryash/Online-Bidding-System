@@ -1,0 +1,33 @@
+
+`	java:S112*"FDefine and throw a dedicated exception instead of using a generic one.(£®ØÔúÿÿÿÿ
+`	java:S1123"FDefine and throw a dedicated exception instead of using a generic one.(¶¯ˆÿÿÿÿÿ
+[	java:S112?"FDefine and throw a dedicated exception instead of using a generic one.(ş™„
+‡
+java:S1130*"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(£®ØÔúÿÿÿÿ
+P	java:S125,"<This block of commented-out lines of code should be removed.(„ªÃ4
+‡
+java:S11303"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(¶¯ˆÿÿÿÿÿ
+N	java:S1064"9Replace this use of System.out or System.err by a logger.(¬ä—Î
+‚
+java:S1130?"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ş™„
+S	java:S106A"9Replace this use of System.out or System.err by a logger.(ÛîŞìøÿÿÿÿ
+c
+java:S4488F"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(³ÜÍ–ÿÿÿÿÿ
+^
+java:S4488L"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(õ´ÄØ
+c
+java:S4488S"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(¶Ëºûÿÿÿÿ
+@
+java:S1905Y"*Remove this unnecessary cast to "Auction".(—Åù©
+V	java:S125g"<This block of commented-out lines of code should be removed.(‡’â–ÿÿÿÿÿ
+`
+java:S4488m"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(¬¦òÀ
+V
+java:S4684t"@Replace this persistent entity with a simple POJO or DTO object.( ¿¦İ
+`
+java:S4488r"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(áïï 
+N	java:S106u"9Replace this use of System.out or System.err by a logger.(˜µ©ƒ
+M	java:S106w"9Replace this use of System.out or System.err by a logger.(àğŠ7
+S	java:S106x"9Replace this use of System.out or System.err by a logger.(ˆËŠ™ûÿÿÿÿ
+S	java:S106y"9Replace this use of System.out or System.err by a logger.(„–ãüÿÿÿÿ
+N	java:S106z"9Replace this use of System.out or System.err by a logger.(Èì¯Ñ
